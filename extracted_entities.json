@@ -1,0 +1,18 @@
+{
+    "name": "Harshal Meshram",
+    "email": "hmeshram141@gmail.com",
+    "phone": "8788415755",
+    "date_of_birth": "10-2000",
+    "education": [
+        {
+            "college_name": "CENTRE FOR DEVELOPMENT OF ADVANCED COMPUTING",
+            "stream": "Big Data Analytics",
+            "degree_type": "PG Diploma"
+        },
+        {
+            "college_name": "SKN COLLEGE OF ENGINEERING",
+            "stream": "Mechanical Engineering",
+            "degree_type": "BE"
+        }
+    ]
+}
